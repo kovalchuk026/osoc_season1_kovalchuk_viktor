@@ -1,5 +1,6 @@
 #include <stdio.h>
 /* This is the comment */
+//this is the cooment
 int main( int argc, char* argv[] )
 {
    int distance = 100;
